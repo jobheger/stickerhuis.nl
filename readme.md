@@ -8,8 +8,10 @@ Fonts: Carnas, ClioRegular, ClioMedium, Broken Detroit.
 
 
 
-**Changelog**
+| Changelog                                                    |
+| ------------------------------------------------------------ |
+| **1.0.1** Fonts zijn bijgewerkt, waardoor de namen nu kloppen. |
+| **1.0.0** Project gestart.                                   |
 
-**1.0.1** Fonts zijn bijgewerkt, waardoor de namen nu kloppen.
 
-**1.0.0** Project gestart.
+
