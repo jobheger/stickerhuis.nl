@@ -4,7 +4,9 @@ Laatste update: 18/04/2018
 
 Fonts: Carnas, ClioRegular, ClioMedium, Broken Detroit.
 
-© 2018 Job Heger. Alle rechten voorbehouden.
+Kleuren: *PMS 376C* (#84BD00), *Cool Gray 7C* (#97999B)
+
+© 2018 Remmerden Reclame. Alle rechten voorbehouden.
 
 
 
